@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amirali motameni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirali motameni" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amirali-motameni-480957295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirali motameni" height="30" width="40" /></a>
 <a href="https://instagram.com/amiralimotameni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amiralimotameni" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/song decomposer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="song decomposer" height="30" width="40" /></a>
+<a href="https://youtube.com/@songdecomposer?si=yhB96sOxnsB2rKHK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="song decomposer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
